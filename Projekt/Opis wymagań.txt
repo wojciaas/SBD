@@ -1,0 +1,8 @@
+Baza danych muzycznej platformy streamingowej zawiera informacje o:
+- użytkownikach, 
+- wykonawcach, 
+- albumach,
+- utworach,
+- playlistach; 
+Umożliwia śledzenie historii odtwarzania użytkowników, obserwowanych przez nich wykonawców oraz utworów dodanych do playlist. 
+Informacje o utworach zawierają tytuł, wykonawcę, album, czas trwania oraz gatunek muzyczny.

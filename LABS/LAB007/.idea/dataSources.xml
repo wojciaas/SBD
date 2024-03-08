@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="2019SBD@db-mssql.pjwstk.edu.pl" uuid="dd6520b3-9c6a-47a7-8599-f859d5228392">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://db-mssql.pjwstk.edu.pl/2019SBD</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <driver-properties>
+        <property name="domain" value="PJWSTK" />
+        <property name="USENTLMV2" value="true" />
+        <property name="DOMAIN" value="PJWSTK" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
